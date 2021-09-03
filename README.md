@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning python
 - 😄 Pronouns: ela/dela
+- :woman_student: Estudo Ciência da Computação no [Centro Universitário UniCarioca](https://www.unicarioca.edu.br/) 
+
 
 <div>
   <a href="https://github.com/pierrout">
